@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26228.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "final", "final.csproj", "{1FE69079-3CF6-4944-9071-B9156C525474}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactManager", "..\starter2\ContactManager.csproj", "{5F66DF54-E762-418B-A24C-9DEFC5A75243}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,8 +17,15 @@ Global
 		{1FE69079-3CF6-4944-9071-B9156C525474}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FE69079-3CF6-4944-9071-B9156C525474}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FE69079-3CF6-4944-9071-B9156C525474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F66DF54-E762-418B-A24C-9DEFC5A75243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F66DF54-E762-418B-A24C-9DEFC5A75243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F66DF54-E762-418B-A24C-9DEFC5A75243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F66DF54-E762-418B-A24C-9DEFC5A75243}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75F3EB66-0D93-4327-9FB8-8281A3EF022E}
 	EndGlobalSection
 EndGlobal
